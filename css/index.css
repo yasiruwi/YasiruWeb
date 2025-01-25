@@ -70,12 +70,22 @@ body {
 
 i {
     margin-bottom: 0.5rem;
+    color: #000;
+}
+
+img {
+    margin-bottom: 0.5rem;
 }
 
 #skills p {
     font-size: 1.3rem;
 }
   
+.skills-icon {
+    width: 5rem; /* Match the icon size */
+    height: 5rem; /* Keep it proportional */
+    display: inline-block; /* Align with icons */
+}
 
 /* Certificates Section */
 #certificates {
