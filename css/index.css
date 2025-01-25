@@ -68,14 +68,14 @@ body {
     background-color: rgb(249, 249, 249);
 }
 
-.custom-badge {
-    background-color: #050a30; /* Example: Orange color */
-    color: #ccd3db; /* Text color */
-    padding: 15px 30px;
-    font-size: 15px;
-    border-radius: 25px; /* Optional: Rounded corners */
-    margin-bottom: 20px;
+i {
+    margin-bottom: 0.5rem;
 }
+
+#skills p {
+    font-size: 1.3rem;
+}
+  
 
 /* Certificates Section */
 #certificates {
