@@ -6,9 +6,15 @@ body {
 
 
 /* Navbar Section */
-.navbar .social-icon {
-    width: 30px;
-    height: 30px;
+.icon-size {
+    width: 25px;
+    height: 25px;
+    font-size: 25px;
+    color: #ccd3db;
+}
+
+.nav-item i:hover {
+    color: #050a30; /* Hover color (orange) */
 }
 
 /* About Section */
