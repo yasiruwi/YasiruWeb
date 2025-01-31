@@ -178,3 +178,26 @@ img {
     margin-right: 15px;
     color: #fff;
 }
+
+.social-icons i {
+    font-size: 24px; /* Medium size */
+    color: #ccd3db; /* Default LinkedIn blue */
+    margin: 10px; /* Spacing between icons */
+    transition: color 0.3s; /* Smooth color change on hover */
+}
+
+.social-icons i:hover {
+    color: #050a30; /* Hover color (orange) */
+}
+
+.custom-logo {
+    width: 500px; /* Previous logo size */
+    max-width: 100%; /* Ensures responsiveness */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.contact-icons i {
+    color: #ccd3db;
+    margin-right: 10px;
+}
+
